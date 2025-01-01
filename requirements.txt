@@ -1,0 +1,9 @@
+gtts
+python-dotenv
+jinja2
+fastapi
+python-multipart
+uvicorn
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
